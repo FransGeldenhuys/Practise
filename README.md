@@ -8,3 +8,4 @@ This is code practise examples for beginner python users. I am currently doing a
 - list
 - conditions
 - loops
+- functions
